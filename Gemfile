@@ -38,6 +38,9 @@ gem 'sprockets', '2.11.0'
 #Use devise as the user authenticator
 gem 'devise'
 
+#Use simple_form to make forms
+gem 'simple_form'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
